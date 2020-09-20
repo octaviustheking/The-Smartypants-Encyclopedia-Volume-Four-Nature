@@ -10,7 +10,8 @@
     <h1>Nature</h1>
     <p>Nature, in the broadest sense, is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science.
 That is what nature is. Wikipedia said that. Not us. Totally not us. Here is the link if you need it. <a href="https://en.wikipedia.org/wiki/Nature">The Link...</a></p>
-
+<a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
+        <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
 
     </body>
 </html>
