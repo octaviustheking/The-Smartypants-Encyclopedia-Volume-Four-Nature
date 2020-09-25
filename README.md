@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>The Smartypants Encyclopedia - Nature</title>
+        <title>The Smartypants Encyclopedia Volume Four - Nature</title>
     </head>
     <body>
     <h1>Nature</h1>
